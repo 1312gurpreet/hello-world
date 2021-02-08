@@ -1,2 +1,2 @@
 # hello-world
-getting started with github
+Getting started with github.
